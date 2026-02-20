@@ -5,3 +5,4 @@ leidenalg=0.11.0
 pandas=3.0.0
 matplotlib=3.10.8
 scipy=1.17.0
+pyarrow=23.0.1
