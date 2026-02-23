@@ -8,13 +8,25 @@ There are two notebooks:
 
 Performs an API query on OpenAlex (https://openalex.org/) database of published works. Designed to collate basic information on published works on some criteria search as contains "sonification" in the Title or Abstract. This also collates a list of all **cited** works by each **citing** work in the form of lists of OpenAlex IDs. The table is in this format:
 
-Publication_ID Refernece_ID
+Publication_ID Reference_ID
 Work1 Work28
 Work1 Work254
 Work1 Work123
 Work2 Work1
 Work2 Work24
 Work2 Work56
+
+| Publication_ID | Reference_ID |
+| ----------- | ----------- |
+| Work 1      | Work28      |
+| Work 1      | Work254     |
+| Work 1      | Work2       |
+| Work 2      | Work321     |
+| Work 2      | Work24      |
+| Work 2      | Work1       |
+| Work 2      | Work29      |
+| Work 2      | Work456     |
+| Work 2      | Work664     |
 
 
 2. Notebooks/sonification_citation_analysis.ipynb
