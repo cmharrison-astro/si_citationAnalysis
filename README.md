@@ -19,3 +19,15 @@ Work2 Work56
 2. Notebooks/sonification_citation_analysis.ipynb
 
 Performs a citation network analysis on the output from the OpenAlex query.
+
+#Data
+
+Fake data was created to represent three groups (by design).
+
+* Group 1 (well connected), N=7
+* Group 2 (isolated except one line, N=6)
+* Group 3 N=5
+* Group 4 N=4
+* Group 5 N=4
+
+In this fake data, one paper was chosen to be highly cited: WOS:000279731700007
