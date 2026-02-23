@@ -1,5 +1,6 @@
-# si_citationAnalysis
-Sonic Intangibles Citation Analysis Project
+# Sonic Intangibles Citation Analysis Project
+
+## Data
 
 There are two notebooks:
 
@@ -20,7 +21,7 @@ Work2 Work56
 
 Performs a citation network analysis on the output from the OpenAlex query.
 
-#Data
+## Data
 
 Fake data was created to represent three groups (by design).
 
