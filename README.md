@@ -1,6 +1,6 @@
 # Sonic Intangibles Citation Analysis Project
 
-## Data
+## Notebooks
 
 There are two notebooks:
 
